@@ -1,0 +1,4 @@
+export const GET_USER_DETAIL = "GET_USER_DETAIL";
+export const GET_USER_BOOKING = "GET_USER_BOOKING";
+export const GET_PAYMENTS_LIST = "GET_PAYMENTS_LIST";
+export const GET_TIP_LIST = "GET_TIP_LIST";

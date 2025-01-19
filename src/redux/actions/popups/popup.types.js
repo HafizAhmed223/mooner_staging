@@ -1,0 +1,6 @@
+export const GET_POPUP_LIST = "GET_POPUP_LIST";
+export const CREATE_POPUP = "CREATE_POPUP";
+export const GET_POPUP_BY_ID = "GET_POPUP_BY_ID"
+export const UPDATE_POPUP = "UPDATE_POPUP";
+export const DELETE_POPUP = "DELETE_POPUP";
+export const GET_POPUP_LIST_COUNT = "GET_POPUP_LIST_COUNT";
